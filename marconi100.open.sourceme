@@ -1,0 +1,5 @@
+# source this file to setup the environment on Cineca MARCONI100
+#
+module load profile/advanced
+module load autoload openmpi
+module list

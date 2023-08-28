@@ -1,0 +1,5 @@
+# source this file to setup the environment on Cineca MARCONI-SKL (A3)
+#
+module load profile/candidate
+module load autoload  env-skl/1.0  openmpi/3.0.0--gnu--7.3.0 papi/6.0.0
+module list
